@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">I love this and I love love2d and lua</h3>
+</p>
 
-<!--
-**UKUL3L3s/UKUL3L3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Woah+this+is+cool;NOTHING+CAN+BEAT+LUAAAAA;LUA+IS+THE+BEST;I+love+this+thing+lol+&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+</p>
+<!-- markdownlint-enable MD033 -->
