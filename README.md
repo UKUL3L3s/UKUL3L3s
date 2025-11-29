@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center">I love this and I love love2d and lua</h3>
+  <h1 align="center">I love this and I love love2d and lua</h3>
 </p>
 
 <p align="center">
@@ -12,6 +12,9 @@
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
-# I love you whoever made this thing cause it's cool but i forgor your name
-## LUA IS THE BEST YOU CAN'T CHANGE MY MIND
-> also love2d
+<p align="center">
+  <h2 align="center">The coding langs I know>
+</p>
+
+  <!--so this is how you create comments?
+  <!--cool
