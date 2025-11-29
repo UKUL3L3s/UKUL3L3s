@@ -12,6 +12,6 @@
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
-I love you whoever made this thing cause it's cool but i forgor your name
-LUA IS THE BEST YOU CAN'T CHANGE MY MIND
-also love2d
+# I love you whoever made this thing cause it's cool but i forgor your name
+## LUA IS THE BEST YOU CAN'T CHANGE MY MIND
+> also love2d
