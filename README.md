@@ -14,7 +14,14 @@
 <!-- markdownlint-enable MD033 -->
 <p align="center">
   <h2 align="center">The coding langs I know</h2>
-</p>
+  Lua
 
+  
+  Markdown
+
+  
+  (idk is md is a coding language)
+  nothinge else lol
+</p>
   <!--so this is how you create comments?
   <!--cool
