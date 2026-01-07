@@ -14,17 +14,10 @@
 <!-- markdownlint-enable MD033 -->
 <p align="center">
   <h2 align="center">The coding langs I know</h2>
-  Lua
-
-  
-  Markdown
-
-
-
-  haha
-
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UKUL3L3s&show_icons=true&theme=transparent)
+  * Lua
+  * MD
+  * html
+haha
 <img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/cab072da-86b6-4ee8-9cc6-5469f686d8df" />
 
 </p>
