@@ -14,8 +14,6 @@
 <!-- markdownlint-enable MD033 -->
 <h1>yes, im UKUL3L3s</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UKUL3L3s" alt="UKUL3L3s" /></a> </p>
-
 -  I'm currently working on: **NOTHING**
 
 -  I'm currently learning **Lua, HTML, CSS, and JavaScript**
