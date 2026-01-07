@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h1 align="center">I love this and I love love2d and lua</h1>
+  <h5 align="center">I love this and I love love2d and lua</h1>
 </p>
 
 <p align="center">
@@ -12,15 +12,21 @@
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
-<p align="center">
-  <h2 align="center">The coding langs I know</h2>
-  
-  * Lua
-  
-  * MD
-  
-  * html
+<h1>yes, im UKUL3L3s</h1>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UKUL3L3s" alt="UKUL3L3s" /></a> </p>
+
+-  I'm currently working on: **NOTHING**
+
+-  I'm currently learning **Lua, HTML, CSS, and JavaScript**
+
+<h3 align="left">Find me:</h3>
+<p align="left">
+<a href="https://github.com/UKUL3L3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="UKUL3L3s" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and crap:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a></p>
 haha
 <img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/cab072da-86b6-4ee8-9cc6-5469f686d8df" />
 
